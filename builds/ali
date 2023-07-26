@@ -1,15 +1,17 @@
 {
-    "error":false,
-    "maintainers":[{"main_maintainer":true,"github_username":"PrabhatProxy","name":"Prabhat Maurya"}],
-    "donate_url":"",
-    "website_url":"https://github.com/RampageOS-Devices/official_devices/releases/",
-    "datetime":,
-    "filename":"RampageOS-rifle-alpha-ali-OFFICIAL-20230710-1558.zip",
-    "id":"61108b2a54f0cd00a18e5e73b1d94e7d",
-    "size":749641881,
-    "url":"https://sourceforge.net/projects/official-devices/files/olives/PixelExperienceX_1.4_olive-12.0-20220305-0950-OFFICIAL.zip/download",
-    "version":"r",
-    "filehash":"61108b2a54f0cd00a18e5e73b1d94e7d",
-    "is_incremental":false,
-    "has_incremental":false
+  "error"          : false,
+  "id"             : "61108b2a54f0cd00a18e5e73b1d94e7d",
+  "filename"       : "RampageOS-rifle-alpha-ali-OFFICIAL-20230710-1558.zip",
+  "datetime"       : 1597407137,
+  "version"        : "r",
+  "size"           : 74964188,
+  "url"            : "https://sourceforge.net/projects/official-devices/files/olives/PixelExperienceX_1.4_olive-12.0-20220305-0950-OFFICIAL.zip/download",
+  "filehash"       : "61108b2a54f0cd00a18e5e73b1d94e7d",
+  "website_url"    : "https://github.com/RampageOS-Devices/official_devices/releases/",
+  "news_url"       : "https://t.me/NusantaraUpdates",
+  "donate_url"     : "https://www.paypal.me",
+  "maintainer"     : "PrabhatProxy",
+  "maintainer_url" : "https://github.com/",
+  "forum_url"      : "https://t.me/NusantaraCommunity"
+
 }
