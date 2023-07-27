@@ -7,5 +7,9 @@
   "version"        : "rifle-beta",
   "filehash"       : "760a39326e969bc2ec48c32dd00670ef",
   "maintainer"     : "PrabhatProxy",
-  "maintainer_url" : "https://t.me/prabhat_proxy"
+  "maintainer_url" : "https://t.me/prabhat_proxy",
+  "forum_url"      : "https://t.me/prabhat_proxy",
+  "website_url"    : "https://github.com/RampageOS",
+  "news_url"       : "ttps://github.com/RampageOS",
+  "donate_url"     : "https://github.com/RampageOS"
 }
