@@ -1,15 +1,15 @@
 {
-  "datetime"       : 1690481401,
-  "filename"       : "RampageOS-rifle-beta-ali-OFFICIAL-20230727-2340.zip",
-  "id"             : "7d1ef83c4cf970617391eb1e8723885d",
-  "size"           : 752529890,
-  "url"            : "https://sourceforge.net/projects/motorola-g6/files/ResurrectionRemix-revived/RR-Rev-Q-JUN23-GAPPS-20230711-ali.zip/download",
-  "version"        : "rifle-beta",
-  "filehash"       : "7d1ef83c2cf970617391eb1e8723885d",
+  "datetime"       : 1692790761,
+  "filename"       : "RampageOS-rifle-1.0-ali-OFFICIAL-20230823-1709.zip",
+  "id"             : "388abe70c0d09d1673d78bc9d859c230",
+  "size"           : 745920705,
+  "url"            : "https://sourceforge.net/projects/rampageos/files/ali/RampageOS-rifle-1.0-ali-OFFICIAL-20230823-1709.zip/download",
+  "version"        : "rifle-1.0",
+  "filehash"       : "388abe70c0d09d1673d78bc9d859c230",
   "maintainer"     : "PrabhatProxy",
   "maintainer_url" : "https://t.me/prabhat_proxy",
-  "forum_url"      : "https://t.me/prabhat_proxy",
+  "forum_url"      : "https://t.me/+QYYMxbKGBPNmMTc9",
   "website_url"    : "https://github.com/RampageOS",
   "news_url"       : "ttps://github.com/RampageOS",
-  "donate_url"     : "https://github.com/RampageOS"
+  "donate_url"     : "https://github.com/PrabhatProxy"
 }
