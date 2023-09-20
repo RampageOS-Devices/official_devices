@@ -1,3 +1,18 @@
+#20/09/2023
+============
+*September 2023 Security Patch
+*"Proximity Kernel" implemented (based on Optimus_Drunk kernel)
+	- Kcal, K-Lapse & Sound Control support
+	- CPU boost (EAS only)
+	- Wakelock blocker
+	- Adreno Idler
+	- Westwood TCP
+	- Optimisations from other kernels
+	- upto 70% performance boost in some cases
+	- more fluidity and smoothness
+
+
 #23/08/2023
 ============
 First Official Release
+
